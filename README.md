@@ -1,4 +1,3 @@
-# Taller de github
- nos explicaron los comandos 
-## Comandos 
-blabla
+#Heading1
+texto normal
+##Subtitle 
