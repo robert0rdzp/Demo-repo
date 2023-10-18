@@ -1,3 +1,4 @@
-#Heading1
-texto normal
-##Subtitle 
+# Taller de github
+ nos explicaron los comandos 
+## Comandos 
+blabla
